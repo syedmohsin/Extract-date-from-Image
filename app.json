@@ -14,8 +14,8 @@
   "environments": {
     "test": {
       "scripts": {
-        "test-setup": "python Date.py collectstatic --noinput",
-        "test": "python Date.py test"
+        "test-setup": "python Date.ipynb collectstatic --noinput",
+        "test": "python Date.ipynb test"
       }
     }
   }
